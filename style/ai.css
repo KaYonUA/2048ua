@@ -1,0 +1,19 @@
+.controls {
+  margin-top: 1em;
+  padding: 0.5em;
+  overflow: auto;
+}
+
+.ai-button {
+  display: inline-block;
+  background: #8f7a66;
+  border-radius: 20px;
+  padding: 0 11px;
+  text-decoration: none;
+  color: #f9f6f2;
+  height: 40px;
+  line-height: 42px;
+  cursor: pointer;
+  display: block;
+  text-align: center;
+  float: left; }
